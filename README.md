@@ -21,6 +21,6 @@ Skills:   REACT / JS / HTML / CSS / TAILWINDCSS / BOOTSTRAP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajuanalam&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rajuanalam/contributions?format=svg&private=false)  
+
 
 
