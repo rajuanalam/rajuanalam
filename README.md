@@ -12,9 +12,6 @@ Skills:   REACT / JS / HTML / CSS / TAILWINDCSS / BOOTSTRAP
 - 💬 Ask me about Frontend Development 
 - 📫 How to reach me: rajuanalam2611@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajuanalam)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajuanalam)](https://github.com/anuraghazra/github-readme-stats)
