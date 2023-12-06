@@ -13,7 +13,7 @@ Skills:   REACT / JS / HTML / CSS / TAILWINDCSS / BOOTSTRAP
 - 📫 How to reach me: rajuanalam2611@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rajuanalam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rajuan Alam)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajuanalam)](https://github.com/ryo-ma/github-profile-trophy)
 
