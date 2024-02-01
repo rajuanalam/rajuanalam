@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Rajuan
+# Hi there 👋, my name is Rajuan Alam
 ### Frontend Developer
 
 A passionate frontend developer with a focus on React. My journey in development involves crafting clean and efficient code to bring designs to life.
