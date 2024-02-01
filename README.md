@@ -1,13 +1,13 @@
 # Hi there 👋, my name is Rajuan
-### Frontend React Developer
+### Frontend Developer
 
-Hello there! I'm Rajuan Alam, a passionate frontend developer with a focus on React. My journey in development involves crafting clean and efficient code to bring designs to life.
+A passionate frontend developer with a focus on React. My journey in development involves crafting clean and efficient code to bring designs to life.
 
 I try to create interfaces that not only looks great but also provides seamless interactions.Whether it's building user-friendly components or optimizing performance,I enjoy the challenge that come with modern web development.
 
 Skills:   REACT / JS / HTML / CSS / TAILWINDCSS / BOOTSTRAP
 
-- 🌱 I’m currently learning React js 
+- 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Frontend Development 
 - 📫 How to reach me: rajuanalam2611@gmail.com 
