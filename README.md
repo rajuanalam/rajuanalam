@@ -10,7 +10,7 @@ Skills:   REACT / JS / HTML / CSS / TAILWINDCSS / BOOTSTRAP
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Frontend Development 
-- 📫 How to reach me: rajuanalam2611@gmail.com 
+- 📫 How to reach me: rajuanthecoder@gmail.com 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajuanalam)](https://github.com/ryo-ma/github-profile-trophy)
 
